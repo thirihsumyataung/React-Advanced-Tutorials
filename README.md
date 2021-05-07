@@ -7,7 +7,7 @@ USESTATE cannot be outside of the function or Components body
 cannot call conditionally 
 
 eg : if () { 
-    hook is inside here // useState
+    hook is inside here -- useState
 }
 Result will be Error. 
 
