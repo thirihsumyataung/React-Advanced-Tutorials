@@ -1,25 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
-
+//import ShortCircuitEvaluation from './conditional-rendering/short-circuit-evaluation';
+import ShowHide from './conditional-rendering/show-hide'; 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+     
+     <ShowHide/> 
+      
     </div>
+    
   );
 }
 
-export default App;
+export default App; 
