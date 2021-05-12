@@ -1,11 +1,12 @@
 import './App.css';
-//import ShortCircuitEvaluation from './conditional-rendering/short-circuit-evaluation';
-import ShowHide from './conditional-rendering/show-hide'; 
+
+//import Forms from './forms/controlled-inputs'; 
+import MultipleControlledInputs from './forms/multiple-inputs'; 
 function App() {
   return (
     <div className="container">
      
-     <ShowHide/> 
+     <MultipleControlledInputs/> 
       
     </div>
     

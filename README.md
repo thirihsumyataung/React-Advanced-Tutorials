@@ -33,3 +33,12 @@ Eg:
     }, []) // In this case , Hello World will be printed only one time, since empty dependency . 
 
 - Everytime, we have useEffect , we have the optional return. 
+
+### Forms 
+
+- In Js 👾 
+const input = document.getElementById ('mytext'); 
+const inputValue = input.value
+
+- In React 👾 
+value , onChange
