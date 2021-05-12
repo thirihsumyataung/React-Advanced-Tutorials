@@ -44,4 +44,17 @@ const inputValue = input.value
 - In React 👾 
 value , onChange
 =======
->>>>>>> 8ec703a289b3e4034c34777d943102bf147b5bd6
+>>>>>>> 8ec703a289b3e4034c34777d943102bf47b5bd6
+
+
+### UseRef 
+
+- preserve values 
+- Does not trigger re-render 
+- target DOM nodes/elements 
+
+
+### UseReducer 
+
+- better usecase for the big projects 
+
