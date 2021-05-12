@@ -7,7 +7,7 @@ USESTATE cannot be outside of the function or Components body
 cannot call conditionally 
 
 eg : if () { 
-    hook is inside here // useState
+    hook is inside here = useState
 }
 Result will be Error. 
 
@@ -33,6 +33,7 @@ Eg:
     }, []) // In this case , Hello World will be printed only one time, since empty dependency . 
 
 - Everytime, we have useEffect , we have the optional return. 
+<<<<<<< HEAD
 
 ### Forms 
 
@@ -42,3 +43,5 @@ const inputValue = input.value
 
 - In React 👾 
 value , onChange
+=======
+>>>>>>> 8ec703a289b3e4034c34777d943102bf147b5bd6
