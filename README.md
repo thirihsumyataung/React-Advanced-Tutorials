@@ -42,9 +42,8 @@ const inputValue = input.value
 
 - In React 👾 
 value , onChange
-=======
-<<<<<<< HEAD
->>>>>>> 8ec703a289b3e4034c34777d943102bf47b5bd6
+
+
 
 
 ### UseRef 
@@ -58,5 +57,5 @@ value , onChange
 
 - better usecase for the big projects 
 
-=======
->>>>>>> a1da02cfa52e66bdaf582c389e152e0f4fbfa1a6
+### Content API 
+
